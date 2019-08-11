@@ -6,11 +6,13 @@ jawaban https://training.ia-toki.org/training/curriculums/2/courses
 ### Compile
 
 ```
+cd <file_location>
 g++ <input_file_name> -o <output_name>
 ```
 
 ### Run
 
 ```
+cd <file_location>
 .\<file_name>
 ```
