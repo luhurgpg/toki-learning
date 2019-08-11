@@ -16,3 +16,9 @@ g++ <input_file_name> -o <output_name>
 cd <file_location>
 .\<file_name>
 ```
+
+### Commit
+
+```
+git push origin master
+```
